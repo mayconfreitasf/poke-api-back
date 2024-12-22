@@ -3,5 +3,5 @@
 No projeto optei pelos seguintes recursos.
 
 - Minimal API
-- Manipulação de Tasks
+- Manipulação de Tasks (Task.WhenAll)
 - Implementação de delegates
