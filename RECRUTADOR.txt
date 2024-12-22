@@ -1,0 +1,7 @@
+﻿Caro recrutador, como o intuito do teste deixou claro que a avaliação seria backend, interpretei que não havia necessidade da parte front.
+
+No projeto optei pelos seguintes recursos.
+
+- Minimal API
+- Manipulação de Tasks
+- Implementação de delegates
